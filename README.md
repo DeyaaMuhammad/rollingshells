@@ -14,11 +14,13 @@ git clone https://github.com/DeyaaMuhammad/rollingshells
 # Usage
 
 Go the tool clonning path
+
 ``
 cd rollingshells
 ``
 
 run the tool
+
 ``
 python3 rs.py
 ``
