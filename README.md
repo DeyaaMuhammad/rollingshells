@@ -13,7 +13,7 @@ git clone https://github.com/DeyaaMuhammad/rollingshells
 
 # Usage
 
-Go the tool clonning path
+Go the tool dir
 
 ``
 cd rollingshells
